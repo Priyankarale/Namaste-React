@@ -1,0 +1,13 @@
+lets just create a new file called App.js 
+copy previous code from the script tag and paste it into this file
+
+what is {}
+in the  createElement this object is place where you will give attributes to your tage 
+example =>id ,class name
+
+what is react.createElement
+this is an object
+
+root.render
+will basically responsibile to take this object and it convert it into tag and 
+put it up on the DOM

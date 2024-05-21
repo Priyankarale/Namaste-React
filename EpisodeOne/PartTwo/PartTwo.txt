@@ -1,0 +1,9 @@
+React.createElement=>it is used to create tags.
+it takes 3 arguments(tag,{},what you want to put into it)
+tag=>which tag you want to create.
+{}=>object.
+what content you want to put into it
+
+ReactDOM.createRoot(document.getElementById('root'));
+root is place where all the react code will run,got everything that we will render inside
+this root. 

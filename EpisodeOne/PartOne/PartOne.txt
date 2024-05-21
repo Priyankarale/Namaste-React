@@ -1,0 +1,6 @@
+create a new folder called Namaste React
+open in VS code
+crerate a basic program in index.html
+then create a same program in script.js
+then try to create same program again in React
+to write a react code you have to pull cdn links into the program
