@@ -1,0 +1,15 @@
+what is NPM
+NPM is everything but it does not stand for Node Package Manager
+NPM does not have fullform
+NPM is standard repository 
+step1 ==>add node Package manager into your project
+ npm init
+ Package.json=>this is configuration for NPM
+ why do we need Package.json=>Our project dependent on lot of Packages .so it will take of Package.json
+ step2===>start installing Packages
+ Most important Package is bundler .bundler helps to pack all the things,bundles ypur project and ready for production app
+ ****Npm install -D parcel****
+ There are two dependencies that one is dev dependencies and onther is normal dependencies.
+ what is Package.lock.json
+ locks the version of Packages.
+  
