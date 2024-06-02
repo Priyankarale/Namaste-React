@@ -2,7 +2,7 @@
   "name": "yes",
   "version": "1.0.0",
   "scripts": {
-    "start": "parcel/Namaste_React/EpisodeThree/index.html",
+    "start": "parcel/Namaste_React/Episodefour/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
